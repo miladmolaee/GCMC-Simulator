@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/Potential/LJ.h
+cmath
+-
+
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/SimulatorEngine/SimulatorEngine.cpp
+SimulatorEngine.h
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/SimulatorEngine/SimulatorEngine.h
+
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/SimulatorEngine/SimulatorEngine.h
+utility
+-
+vector
+-
+iostream
+-
+fstream
+-
+../Structure/Particle.h
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/Structure/Particle.h
+../Potential/LJ.h
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/Potential/LJ.h
+
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/Structure/Particle.h
+string
+-
+

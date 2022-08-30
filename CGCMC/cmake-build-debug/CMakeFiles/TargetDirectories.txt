@@ -1,0 +1,3 @@
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/cmake-build-debug/CMakeFiles/CGCMC.dir
+C:/Users/milad/OneDrive/MScProject/MasterProject/CGCMC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
